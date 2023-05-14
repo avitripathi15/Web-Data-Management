@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dept>
+    <code>ANTH</code>
+    <count>16</count>
+</dept>
+<dept>
+    <code>BIOL</code>
+    <count>15</count>
+</dept>
+<dept>
+    <code>CHEM</code>
+    <count>16</count>
+</dept>
+<dept>
+    <code>CHIN</code>
+    <count>8</count>
+</dept>
+<dept>
+    <code>CLAS</code>
+    <count>3</count>
+</dept>
+<dept>
+    <code>CRWR</code>
+    <count>8</count>
+</dept>
+<dept>
+    <code>DANC</code>
+    <count>6</count>
+</dept>
+<dept>
+    <code>ECON</code>
+    <count>16</count>
+</dept>
+<dept>
+    <code>ENG</code>
+    <count>24</count>
+</dept>
+<dept>
+    <code>ART</code>
+    <count>20</count>
+</dept>
+<dept>
+    <code>FREN</code>
+    <count>10</count>
+</dept>
+<dept>
+    <code>GER</code>
+    <count>9</count>
+</dept>
+<dept>
+    <code>GRK</code>
+    <count>3</count>
+</dept>
+<dept>
+    <code>HIST</code>
+    <count>24</count>
+</dept>
+<dept>
+    <code>HUM</code>
+    <count>5</count>
+</dept>
+<dept>
+    <code>LAT</code>
+    <count>3</count>
+</dept>
+<dept>
+    <code>LING</code>
+    <count>8</count>
+</dept>
+<dept>
+    <code>LIT</code>
+    <count>16</count>
+</dept>
+<dept>
+    <code>MATH</code>
+    <count>21</count>
+</dept>
+<dept>
+    <code>MUS</code>
+    <count>15</count>
+</dept>
+<dept>
+    <code>PE</code>
+    <count>46</count>
+</dept>
+<dept>
+    <code>PHIL</code>
+    <count>15</count>
+</dept>
+<dept>
+    <code>PHYS</code>
+    <count>16</count>
+</dept>
+<dept>
+    <code>POL</code>
+    <count>18</count>
+</dept>
+<dept>
+    <code>PSY</code>
+    <count>23</count>
+</dept>
+<dept>
+    <code>REL</code>
+    <count>11</count>
+</dept>
+<dept>
+    <code>RUSS</code>
+    <count>10</count>
+</dept>
+<dept>
+    <code>SOC</code>
+    <count>6</count>
+</dept>
+<dept>
+    <code>SPAN</code>
+    <count>10</count>
+</dept>
+<dept>
+    <code>THEA</code>
+    <count>13</count>
+</dept>
+<dept>
+    <code>LBST</code>
+    <count>1</count>
+</dept>

@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instructor>Brightman
+    <title>Introduction to Anthropology</title>
+    <title>Indians  and  Northrn NativeAmers</title>
+    <title>Nature, Cult  and Envirnmentalism</title>
+    <title>Theories of Culture</title>
+</instructor>
+<instructor>Makley
+    <title>Sex and Gender</title>
+    <title>Gender and Ethnicity China, Tibet</title>
+    <title>Media  and  Culture Post-MaoChina</title>
+    <title>Introduction to Anthropology</title>
+</instructor>
+<instructor>Kaplan
+    <title>Field Biology of Amphibians</title>
+    <title>Population Bio:Ecolgy and Evolutn</title>
+</instructor>
+<instructor>
+    <title>Bacterial Pathogenesis</title>
+    <title>First Year Chinese</title>
+    <title>Second Year Chinese</title>
+    <title>First Year French</title>
+    <title>Frst Yr German:A Foundation</title>
+    <title>First Year Greek</title>
+    <title>First Year Latin</title>
+    <title>First Year Russian</title>
+    <title>Second Year Russian</title>
+    <title>Microbiology</title>
+</instructor>
+<instructor>Yezerinac<title>Seminar in Biology</title>
+    <title>Animal Behav.  and  Behav.Ecology</title>
+</instructor>
+<instructor>Geselbracht<title>MolecularStructure and Properties</title>
+    <title>Intro Inorganic Chemistry</title>
+    <title>Advanced Inorganic Chemistry</title>
+</instructor>
+<instructor>Haviland<title>Languages the Americas:Mayan</title>
+    <title>General Linguistics</title>
+    <title>Language and Society</title>
+    <title>Introductory Syntax</title>
+    <title>Morphosyntactic Typology</title>
+    <title>Language in Society</title>
+</instructor>
+<instructor>Glasfeld<title>Chemical Reactivity</title>
+    <title>Structural Biochemistry</title>
+</instructor>
+<instructor>Silverstein<title>Anthropology of Europe</title>
+    <title>Urban Anthropology</title>
+    <title>Introduction to Anthropology</title>
+    <title>Ethnic  and  Nation France  and  NAfr</title>
+</instructor>
+<instructor>Shusterman<title>Organic Chemistry I</title>
+    <title>Computational Organic Chem</title>
+</instructor>
+<instructor>McDougal<title>Organic Chemistry II</title>
+    <title>Adv Synth Organic Chemistry</title>
+</instructor>
+<instructor>Stasch<title>Prob in IndonesianEthnography</title>
+    <title>Myth</title>
+    <title>Structuralism and Semiotics</title>
+    <title>Introduction to Anthropology</title>
+</instructor>
+<instructor>Dunne<title>Environmental Chemistry</title>
+</instructor>
+<instructor>McClard<title>Analytical Chemistry</title>
+    <title>Metabolic Biochemistry</title>
+    <title>Biochemical Methods</title>
+</instructor>
+<instructor>Ahmadi<title>Physical Chemistry Laboratory</title>
+    <title>Statistical Thermodynamics</title>
+    <title>Quantum Mechanics  and  MolStruct</title>
+</instructor>
+<instructor>Wu<title>Third Year Chinese</title>
+    <title>20 Cent Chin Fiction, 1919-49</title>
+    <title>20th Century Chinese Poetry</title>
+    <title>Foundatns ChineseCivilization</title>
+    <title>20-Cent Chin Fiction, 1919-49</title>
+    <title>20-Century Chinese Poetry</title>
+</instructor>
+<instructor>Rhew<title>Classical Chinese</title>
+    <title>Chinese Narrative Tradition</title>
+    <title>Yijing: Text and Tradition</title>
+</instructor>
+<instructor>Englert<title>Greek Tragedy</title>
+    <title>West Humanities: Greece  and Rome</title>
+    <title>Advanced Latin</title>
+</instructor>
+<instructor>Kelly<title>Ancient History: Rome</title>
+    <title>Specl Topics in Roman History</title>
+    <title>West Humanities: Greece  and Rome</title>
+</instructor>
+<instructor>Hillis<title>Intro to Creative Writing</title>
+    <title>Intro to Fiction Writing</title>
+    <title>Intro to ScreenwritingWrkshop</title>
+    <title>Advanced Fiction Writing</title>
+</instructor>
+<instructor>Williams<title>Intro Poetry Writing</title>
+    <title>Intermediate Poetry: StudioII</title>
+    <title>Adv Poet Writng: SequentVoice</title>
+    <title>Adv Poet Writing:NaturalVoice</title>
+</instructor>
+<instructor>Mann<title>Basic Technique</title>
+    <title>Improvisation</title>
+    <title>Adv Techniques  and  CompositionI</title>
+</instructor>
+<instructor>Wong<title>Technique, Design  and Compostion</title>
+    <title>Adv Technique  and  CompositionII</title>
+    <title>Dance Theory and Criticism</title>
+</instructor>
+<instructor>Clausing<title>Intro to Economic Analysis</title>
+    <title>History of Economic Thought</title>
+    <title>International Macroeconomics</title>
+    <title>International Trade</title>
+</instructor>
+<instructor>Netusil<title>Intro to Economic Analysis</title>
+    <title>Survey of Econometric Methods</title>
+    <title>Economics of the PublicSector</title>
+    <title>Environment  and  Nat Resrce Econ</title>
+</instructor>
+<instructor>Parker<title>Theory and  Practice Econometrics</title>
+    <title>Macroeconomic Theory</title>
+    <title>Monetary and Fiscal Policy</title>
+    <title>Seminar: Unemployment</title>
+    <title>Economic Growth</title>
+</instructor>
+<instructor>Despins<title>Microeconomic Theory</title>
+    <title>Economics of Development</title>
+    <title>Economics  and  Game Theory</title>
+    <title>Econ Envirn, Intl Trade,Devel</title>
+</instructor>
+<instructor>Arnold<title>Intro Narr:Native AmericanLit</title>
+    <title>Amer. Studies Seminar: TheEnd</title>
+    <title>West Humanities: Greece  and Rome</title>
+</instructor>
+<instructor>Leveen<title>Intro Narr: Telling Lives</title>
+    <title>American Lit: Speaking ofRace</title>
+    <title>West Humanities: Greece  and Rome</title>
+</instructor>
+<instructor>Duquette<title>Intro Narrative: The Essay</title>
+    <title>Amer Lit: The James Brothers</title>
+    <title>West Humanities: Greece  and Rome</title>
+</instructor>
+<instructor>Gillcrist<title>Intro Fict:Colonl and LaterNovels</title>
+    <title>Fict:Wolff,Forster,Bloomsbury</title>
+    <title>West Humanities: Greece  and Rome</title>
+</instructor>
+<instructor>King<title>Intro Fict:Portraits ofLadies</title>
+    <title>Fict: Novel  and  Theory Mimesis</title>
+    <title>West Humanities: Greece  and Rome</title>
+    <title>Greek Humanities</title>
+</instructor>
+<instructor>Baker<title>Intro Fict: The Short Story</title>
+    <title>American Lit: Race in America</title>
+    <title>West Humanities: Greece  and Rome</title>
+</instructor>
+<instructor>Steinman<title>Intro to Poetry and Poetics</title>
+    <title>Poetry  and  History:Contemp Amer</title>
+    <title>Early Modern Europe</title>
+</instructor>
+<instructor>Stauder<title>Intro to Poetry and Poetics</title>
+    <title>Poetry: Pound and H.D.</title>
+    <title>West Humanities: Greece  and Rome</title>
+</instructor>
+<instructor>Savery<title>Intro to Drama: The 1990s</title>
+    <title>20th Cent African-Amercan Lit</title>
+</instructor>
+<instructor>Porter<title>Intro Drama:Conventn  and Inovatn</title>
+    <title>Love in Shakespeare</title>
+    <title>Modern Humanities</title>
+</instructor>
+<instructor>Sherman<title>Jun Sem: Epic and Novel</title>
+    <title>Mod Fict:Representing Mothers</title>
+    <title>West Humanities: Greece  and Rome</title>
+</instructor>
+<instructor>Knapp<title>Jun Sem:Irony, Allegory, Epic</title>
+    <title>Skepticism in Shakespeare</title>
+    <title>Literary Theory:EthicsReading</title>
+    <title>Early Modern Europe</title>
+</instructor>
+<instructor>Knutson<title>Introductory Drawing</title>
+    <title>Printmaking</title>
+    <title>Introductory Painting</title>
+    <title>Introductory Painting II</title>
+    <title>Intermed Paint,Draw,PrintmakI</title>
+    <title>IntermedPaint,Draw,PrintmakII</title>
+</instructor>
+<instructor>Delehanty<title>Second Year French</title>
+    <title>17th Cent French Drama</title>
+    <title>West Humanities: Greece  and Rome</title>
+</instructor>
+<instructor>Berkvam<title>Second Year French</title>
+    <title>Lit  and  Society (16th Century)</title>
+    <title>Lit  and  Society (18th Century)</title>
+</instructor>
+<instructor>Ondrizek<title>Introductory Drawing</title>
+    <title>Figure Drawing</title>
+    <title>Sculpture</title>
+    <title>Sculpture II</title>
+    <title>Intermed Sculp  and  Multimedia I</title>
+    <title>Intermed Sculp  and  MultimediaII</title>
+</instructor>
+<instructor>Khan<title>Stylistics and Composition</title>
+    <title>Early Modern French Narrative</title>
+    <title>20th Century French Theatre</title>
+</instructor>
+<instructor>Hochman<title>20th C French Poetry  and Poetics</title>
+    <title>Seminar:Uses of Literature</title>
+</instructor>
+<instructor>Gokberk<title>Secnd Yr Ger:CultralPerspctvs</title>
+    <title>Modernism: Berlin</title>
+    <title>Contemporary German Prose</title>
+    <title>Modern Humanities</title>
+</instructor>
+<instructor>Mieszkowski<title>Adv Conversation and Writing</title>
+    <title>German Theory II: Body Media</title>
+    <title>West Humanities: Greece  and Rome</title>
+</instructor>
+<instructor>Irmscher<title>Advancd Conversation and Writing</title>
+    <title>German Thought Postmodrn Era</title>
+    <title>German Thought Postmod Era</title>
+</instructor>
+<instructor>Rudolf<title>Modern German Theatre</title>
+</instructor>
+<instructor>Wolfe<title>Second Year Greek</title>
+    <title>West Humanities: Greece  and Rome</title>
+    <title>Second Year Latin</title>
+</instructor>
+<instructor>Tron<title>Advanced Greek</title>
+    <title>Advanced Latin</title>
+</instructor>
+<instructor>Nicholson<title>Advanced Greek</title>
+    <title>West Humanities: Greece  and Rome</title>
+</instructor>
+<instructor>Fix<title>Late Imperial China</title>
+    <title>Modern China</title>
+    <title>Subaltern Stds Historiography</title>
+    <title>The Family in China and Japan</title>
+    <title>Foundatns ChineseCivilization</title>
+    <title>Introduction to Computing</title>
+    <title>Data Structure  and  Algorithm</title>
+    <title>Computer Graphics</title>
+    <title>Topics In Computer Theory</title>
+</instructor>
+<instructor>Dirks<title>Cultr  and  Society 19 CentAmerca</title>
+    <title>Culture and Society 20 Cent Amer</title>
+    <title>Gender and History</title>
+    <title>Jun Sem: Depression Era U.S.</title>
+</instructor>
+<instructor>McCalla<title>Introduction to Judaism</title>
+    <title>History of Religion</title>
+    <title>Romanticism and Religion</title>
+</instructor>
+<instructor>Segel<title>Spcl Tops: Vietnam War</title>
+    <title>Modern Humanities</title>
+</instructor>
+<instructor>Diebold<title>Introduction to Art History</title>
+    <title>Early Medieval Art</title>
+    <title>Medieval Manuscript Illumin</title>
+</instructor>
+<instructor>Sacks<title>Devel of Britain 1700-1830</title>
+    <title>Sem: Comty, Auth, Cult15-1700</title>
+    <title>West Humanities: Greece  and Rome</title>
+</instructor>
+<instructor>Mueller<title>The Third Reich</title>
+    <title>Weimar:State,Society  and Culture</title>
+    <title>Modern Humanities</title>
+</instructor>
+<instructor>Smith<title>The Russian Revolution</title>
+</instructor>
+<instructor>Breen<title>Old Regime France 1600-1750</title>
+    <title>The French Enlightenment</title>
+    <title>West Humanities: Greece  and Rome</title>
+</instructor>
+<instructor>Iaccarino<title>Civil War and Reconstruction</title>
+    <title>American Slavery</title>
+    <title>West Humanities: Greece  and Rome</title>
+</instructor>
+<instructor>Garrett<title>Mexico: Indepdence toRevolutn</title>
+    <title>Mexico  and  the Spanish Conquest</title>
+    <title>Early Modern Europe</title>
+</instructor>
+<instructor>Drumm<title>West Humanities: Greece  and Rome</title>
+    <title>First Year Spanish</title>
+    <title>Modern Peninsular Drama</title>
+    <title>Don Quixote  and  Narr. Theory</title>
+</instructor>
+<instructor>Arkonovich<title>West Humanities: Greece  and Rome</title>
+    <title>Ethics</title>
+    <title>Major Figures: Hume</title>
+</instructor>
+<instructor>Feener<title>West Humanities: Greece  and Rome</title>
+    <title>Introduction to Islam</title>
+    <title>Missing Persons World ofIslam</title>
+</instructor>
+<instructor>Foat<title>West Humanities: Greece  and Rome</title>
+    <title>Spcl Top Ancient Christianity</title>
+    <title>Junior Seminar</title>
+</instructor>
+<instructor>Mandell<title>West Humanities: Greece  and Rome</title>
+    <title>Classical PoliticalPhilosophy</title>
+    <title>Democratic Theory</title>
+</instructor>
+<instructor>David<title>West Humanities: Greece  and Rome</title>
+    <title>Divine Comedy  and Visualizations</title>
+    <title>Leonardo, Raphael,Michelangel</title>
+</instructor>
+<instructor>Latham<title>West Humanities: Greece  and Rome</title>
+    <title>Introduction to Philosophy</title>
+    <title>Adv Topics: Ethics</title>
+</instructor>
+<instructor>Hendrickson<title>West Humanities: Greece  and Rome</title>
+    <title>Art and Politics in France</title>
+</instructor>
+<instructor>Kierstead<title>Early Modern Europe</title>
+    <title>Topics in FrenchEnlightenment</title>
+</instructor>
+<instructor>van Dyke<title>Modern Humanities</title>
+    <title>Pol Hist of Art Between Wars</title>
+    <title>Art  and  Pol in Weimar Republic</title>
+</instructor>
+<instructor>Brashier<title>Foundatns ChineseCivilization</title>
+    <title>Intro to Religions of Asia</title>
+    <title>Theory  and  Method in RelStudies</title>
+    <title>Theory  and Methods in RelStudies</title>
+    <title>Chinese Mahayana Texts</title>
+</instructor>
+<instructor>Canseco-Gonzale<title>Psycholinguistics</title>
+    <title>Psych of Language Acquisition</title>
+    <title>Neuropsychology</title>
+</instructor>
+<instructor>Lencek<title>Russian Short Fiction</title>
+    <title>Russian Lit:Gogol  and Dostoevsky</title>
+    <title>20th C Russian CriticalTheory</title>
+    <title>First Year Russian</title>
+    <title>20th Century Russian Poetry</title>
+    <title>Russ Lit: Gogol  and  Dostoevsky</title>
+</instructor>
+<instructor>Bershtein<title>Russian Lit:Chekhov toPresent</title>
+    <title>The Myth of St. Petersburg</title>
+    <title>Russ Decadent/SymbolistCultur</title>
+    <title>Advanced Russian</title>
+    <title>Mod Russ Lit:Chekov toPresent</title>
+</instructor>
+<instructor>Mayer<title>Calculus I</title>
+    <title>Calculus II</title>
+    <title>Linear Algebra</title>
+    <title>Topics in Advanced AnalysisII</title>
+</instructor>
+<instructor>Shurman<title>Calculus I</title>
+    <title>Introduction to Combinatorics</title>
+    <title>Advanced Calculus</title>
+    <title>Elemetary Number Theory</title>
+</instructor>
+<instructor>Potluri<title>Calculus I</title>
+    <title>Linear Algebra</title>
+</instructor>
+<instructor>Perkinson<title>Calculus II</title>
+    <title>Introduction to Analysis I</title>
+    <title>Complex Analysis</title>
+    <title>Combinatorics</title>
+</instructor>
+<instructor>Jones<title>Calculus II</title>
+    <title>Intro to Probability  and Statist</title>
+    <title>Linear Algebra</title>
+</instructor>
+<instructor>Wieting<title>Calculus II</title>
+    <title>Introduction to Analysis I</title>
+    <title>Introduction to Analysis II</title>
+    <title>Geometry</title>
+    <title>Probability</title>
+    <title>Ornamental Art</title>
+</instructor>
+<instructor>Bernhard<title>Calculus II</title>
+    <title>Introduction to Analysis I</title>
+    <title>Introduction to Analysis II</title>
+    <title>Abstract Algebra</title>
+    <title>Algebraic Structures</title>
+</instructor>
+<instructor>Fillin-Yeh<title>New West in Amer Photography</title>
+</instructor>
+<instructor>Schiff<title>Chamber Orchestra</title>
+    <title>Theory III: BaroqueCounterpnt</title>
+    <title>Jazz</title>
+    <title>Modernism in Music</title>
+    <title>Advanced Analysis</title>
+</instructor>
+<instructor>Hancock<title>Chorus</title>
+    <title>Collegium Musicum</title>
+    <title>Music Theory I</title>
+    <title>Theory II:IntermediateHarmony</title>
+    <title>Romantic Music</title>
+</instructor>
+<instructor>Falk<title>Intro to Music Listening</title>
+    <title>Survey of Western Music</title>
+    <title>The String Quartet</title>
+    <title>Representation in Music</title>
+    <title>Medieval and RenaissanceMusic</title>
+</instructor>
+<instructor>Casey<title>Aerobics</title>
+    <title>African Dance</title>
+    <title>Aikido</title>
+    <title>Archery</title>
+    <title>Bellydance</title>
+    <title>Ballroom Dance-Beginning</title>
+    <title>Ballroom Dance-Intermediate</title>
+    <title>Canoeing</title>
+    <title>Self Defense</title>
+    <title>Fencing</title>
+    <title>Folkdance</title>
+    <title>Golf</title>
+    <title>Yoga-Hatha</title>
+    <title>Judo</title>
+    <title>Juggling</title>
+    <title>Jitterbug</title>
+    <title>Yoga-Kundilini</title>
+    <title>Kayaking-Intermediate</title>
+    <title>Lifeguard Training</title>
+    <title>Yoga-Relaxaion</title>
+    <title>Rock Climbing</title>
+    <title>Rugby-Men and Women</title>
+    <title>Rowing-Beginning</title>
+    <title>Rowing-Intermediate</title>
+    <title>Softball</title>
+    <title>Squash-Beginning</title>
+    <title>Squash-Intermediate</title>
+    <title>Sailing</title>
+    <title>Tai Chi-Beginning</title>
+    <title>Tai Chi-Intermediate</title>
+    <title>Tennis-Advanced</title>
+    <title>Tennis-Beginning</title>
+    <title>Tennis-Intermediate</title>
+    <title>Ultimate Frisbee</title>
+    <title>White Water Rafting</title>
+    <title>Badminton</title>
+    <title>Basketball-Coed</title>
+    <title>Backcountry Navigation</title>
+    <title>Bowling</title>
+    <title>Folkdancing</title>
+    <title>Hiking Around Portland</title>
+    <title>Yoga-Kundlini</title>
+    <title>Modern Dance</title>
+    <title>Yoga-Relaxation</title>
+    <title>Raquetball-Beginning</title>
+    <title>Squash-beginning</title>
+</instructor>
+<instructor>Shampay<title>Intro Biology Lect and Lab</title>
+    <title>Genetics and Gene Regulation</title>
+</instructor>
+<instructor>Hinchliff<title>Introduction to Philosophy</title>
+    <title>Metaphysics</title>
+    <title>Philosophy of Mind</title>
+    <title>Adv Topics:APrior,Nec,Anlytic</title>
+</instructor>
+<instructor>Reeve<title>Introduction to Philosophy</title>
+    <title>Ancient Philosophy</title>
+    <title>Advanced Topics:Phil of Mind</title>
+</instructor>
+<instructor>Taschek<title>Logic</title>
+    <title>Epistemology</title>
+    <title>Advanced Topics: Epistemology</title>
+    <title>Major Figures: Davidson</title>
+</instructor>
+<instructor>Peck<title>Post-Kantian Continental Phil</title>
+    <title>Major Figures:Existentialists</title>
+</instructor>
+<instructor>Bonfim<title>General Physics I</title>
+</instructor>
+<instructor>Reynolds<title>Introduction to Physics</title>
+    <title>Classical Mechanics I</title>
+    <title>Thermal Physics</title>
+</instructor>
+<instructor>Staff<title>Introduction to Physics</title>
+</instructor>
+<instructor>Griffiths<title>General Physics II</title>
+    <title>Elementary Particles</title>
+</instructor>
+<instructor>Black<title>Intro Biology Lect and Lab</title>
+    <title>Developmental Biology</title>
+</instructor>
+<instructor>James<title>Electrodynamics I</title>
+    <title>Electrodynamics II</title>
+</instructor>
+<instructor>Mitchell<title>Optics</title>
+    <title>Advanced Laboratory II</title>
+</instructor>
+<instructor>Essick<title>Advanced Laboratory I</title>
+    <title>Solid State Physics</title>
+</instructor>
+<instructor>Wheeler<title>Quantum Mechanics I</title>
+    <title>Classical Mechanics II</title>
+    <title>Quantum Mechanics II</title>
+</instructor>
+<instructor>Crandall<title>Scientific Computation</title>
+</instructor>
+<instructor>Rejali<title>Intro Political Analysis</title>
+    <title>Approaches to Violence</title>
+    <title>International CriminalJustice</title>
+    <title>Machiavelli</title>
+    <title>Political Philosophies ofWork</title>
+</instructor>
+<instructor>Gronke<title>Empirical Political Theory</title>
+</instructor>
+<instructor>Steinberger<title>Modern Political Philosophy</title>
+</instructor>
+<instructor>Andreas<title>Comparative Politics</title>
+    <title>Politics of Globalization</title>
+    <title>States and Illegal Markets</title>
+    <title>Pol of Border and US-Mexico</title>
+</instructor>
+<instructor>Tudor<title>Research Methods</title>
+    <title>Introduction to Sociology</title>
+    <title>Sociology of Religion</title>
+</instructor>
+<instructor>Teske<title>Environmental Politics</title>
+    <title>Pol of Democratic Participatn</title>
+</instructor>
+<instructor>Kapsch<title>Con. Law and JudicialPolitics</title>
+    <title>Systems of Justice</title>
+</instructor>
+<instructor>Reisberg<title>Intro to Psychology I</title>
+    <title>Intro to Psychology</title>
+    <title>Thinking</title>
+    <title>Cognitive Processes</title>
+    <title>Music Perception</title>
+</instructor>
+<instructor>Neuringer<title>Intro to Psychology II</title>
+    <title>Learning</title>
+</instructor>
+<instructor>Oleson<title>Social Psychology</title>
+    <title>Research Design  and  DataAnalysi</title>
+</instructor>
+<instructor>Herman<title>Health Psychology</title>
+    <title>Community Psychology</title>
+    <title>Psychopathology</title>
+    <title>Clinical Psychology</title>
+</instructor>
+<instructor>Bulkley<title>Social Development</title>
+    <title>Human Development</title>
+    <title>Cross-Cultural Psychology</title>
+</instructor>
+<instructor>Dickinson<title>Psychobiology</title>
+    <title>Psychopharmacology</title>
+    <title>Psychobiology Research</title>
+</instructor>
+<instructor>Rhodes<title>Psychobiology</title>
+    <title>Junior Seminar</title>
+</instructor>
+<instructor>Raubeson<title>Vascular Plant Diversity</title>
+    <title>Evolutionary Biology</title>
+</instructor>
+<instructor>Hrycak<title>Introduction to Sociology</title>
+    <title>Sociology of Culture</title>
+</instructor>
+<instructor>Schneiberg<title>Introduction to Sociology</title>
+    <title>Race and Ethnicity</title>
+    <title>American Capitalism</title>
+</instructor>
+<instructor>Moret<title>First Year Spanish</title>
+    <title>Second Year Spanish</title>
+    <title>Theory  and  Practice HispanicLit</title>
+</instructor>
+<instructor>Schulz<title>First Year Spanish</title>
+    <title>Theory  and  Practice HispanicLit</title>
+    <title>The City in Span Amer Lit</title>
+</instructor>
+<instructor>Fischer<title>Second Year Spanish</title>
+    <title>Spl Tops Span Amer Lit:Borges</title>
+    <title>Lit Responses to Dictatorship</title>
+</instructor>
+<instructor>Alonso<title>Spanish Short Story</title>
+</instructor>
+<instructor>Larisch<title>Mod Spanish American Drama</title>
+</instructor>
+<instructor>Garcia-Bryce<title>Penin Lit: Dogma  and  Disbelief</title>
+</instructor>
+<instructor>Worley<title>Introduction to Theatre</title>
+    <title>Acting Laboratory</title>
+    <title>Intercultr ExperimentsTheatre</title>
+    <title>Techniques of Acting</title>
+    <title>Experiments Intercult Theatre</title>
+</instructor>
+<instructor>Carr<title>Masks  and  Make-up Design</title>
+    <title>Costume History  and  Design</title>
+</instructor>
+<instructor>Muller<title>Design for the Theatre: Sets</title>
+    <title>Design for Theatre: Lights</title>
+</instructor>
+<instructor>Clinton<title>Plays and Playhouses</title>
+    <title>Playwriting</title>
+    <title>Directing I</title>
+    <title>Special Problems in Directing</title>
+</instructor>
+<instructor>Lowe<title>ColonizingAfrica:Conrad and Congo</title>
+</instructor>
+<instructor>Mellies<title>Microbiology</title>
+</instructor>
+<instructor>Russell<title>Genetics and MolecularBiology</title>
+</instructor>
+<instructor>McClellan<title>Cellular Biology</title>
+</instructor>
+<instructor>Arch<title>Animal Physiology</title>
+</instructor>
